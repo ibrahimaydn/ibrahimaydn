@@ -1,4 +1,4 @@
-- 👋 Hi, I’m İbrahim AYDIN...
+- 👋 Hi, I’m İbrahim AYDIN..
 - 👀 I am interested in website design..
 - 🌱 I’m currently learning html,css and jaa languages ...
 - 💞️ I’m looking to collaborate on the website ...
@@ -6,5 +6,5 @@
 
 <!---
 ibrahimaydn/ibrahimaydn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the Preview link to take a look at your change
+---> 
