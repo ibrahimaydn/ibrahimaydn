@@ -1,5 +1,5 @@
 ç- 👀 I am interested in website design...
-- 🌱 I’m currently learning html,css and java languages 
+- 🌱 I’m currently learning html,css and java languages ,
 - 💞️ I’m looking to collaborate on the website ....
 - 📫 How to reach me ..
 
