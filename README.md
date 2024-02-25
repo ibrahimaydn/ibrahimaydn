@@ -1,5 +1,5 @@
  ##   Hi 👋, I'm Ibrahim AYDIN
-##
+## 
 I'm android application and artificial intelligence developer
 
 ## 🌐 Socials:
