@@ -51,5 +51,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ibrahimaydn/ibrahimaydn/output/snake.svg" alt="Snake animation" />
+![Snake animation](./dist/snake.svg)
 
 ###
