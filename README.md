@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is İbrahim AYDIN and I'm a computer engineering student , I am from Turkey.</h2>
+<h2 align="left">Hi 👋! My name is İbrahim AYDIN and I'm a computer engineering student.</h2>
 
 ###
 I'm android application and artificial intelligence developer
