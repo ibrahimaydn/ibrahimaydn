@@ -79,8 +79,7 @@
 </a>  
 </div>  
   
-https://medium.com/@ibrahimaydn231
-<br/>  
+  <br/>  
 
 
 ## Github Stats  
