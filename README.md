@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋! My name is İbrahim AYDIN and I'm a computer engineering student. 🚀</div>  
+### <div align="center">Hi 👋! My name is İbrahim AYDIN and I'm a computer engineer. 🚀</div>  
   
 
 - 🌍 Embedded Software & AI Developer  
